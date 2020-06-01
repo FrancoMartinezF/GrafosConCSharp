@@ -1,0 +1,6 @@
+C:\Users\FrancoNT\Documents\SharpDevelop Projects\Trabajo final de complejidad\Grafo Generico Febrero\obj\Debug\Grafo Generico Febrero.csprojResolveAssemblyReference.cache
+C:\Users\FrancoNT\Documents\SharpDevelop Projects\Trabajo final de complejidad\Grafo Generico Febrero\bin\Debug\Grafo Generico Febrero.exe.config
+C:\Users\FrancoNT\Documents\SharpDevelop Projects\Trabajo final de complejidad\Grafo Generico Febrero\bin\Debug\Grafo Generico Febrero.exe
+C:\Users\FrancoNT\Documents\SharpDevelop Projects\Trabajo final de complejidad\Grafo Generico Febrero\bin\Debug\Grafo Generico Febrero.pdb
+C:\Users\FrancoNT\Documents\SharpDevelop Projects\Trabajo final de complejidad\Grafo Generico Febrero\obj\Debug\Grafo Generico Febrero.exe
+C:\Users\FrancoNT\Documents\SharpDevelop Projects\Trabajo final de complejidad\Grafo Generico Febrero\obj\Debug\Grafo Generico Febrero.pdb

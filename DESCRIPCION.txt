@@ -1,0 +1,9 @@
+Como proyecto final para aprobar esta materia llamada Complejidad Temporal, Estructura
+de Datos y Algoritmos, el enunciado nos pedía la solución para la creación de un grafo
+como estructura de datos. Tanto de un grafo predeterminado por la cátedra, como de un
+grafo genérico que pudiera crear cualquier usuario. Además, como condición para aprobar,
+se exigía la realización de dos algoritmos. El primero debía encontrar todos los caminos
+posibles entre dos vértices; y el segundo todos los vértices que se encontraban desde
+un origen y una distancia como parámetros. El proyecto fue aprobado satisfactoriamente.
+Para más información, también adjunto el archivo pdf con el enunciado y el gráfico del
+grafo que fue cargado de manera predeterminada. 
